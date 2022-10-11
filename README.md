@@ -19,13 +19,6 @@ After reviewing the table above, it can be seen that
 
 ### Summary
 ---
-Further analysis was carrried out to understand the number of employees for each department eligible for mentorship and the below table was tabulated using the code:
-```Sql
-select count(me.emp_no) as "Total Count", me.title
-into eligible_mentors
-from mentorship_eligibilty as me
-group by me.title
-order by "Total Count" DESC;
-```
-![]()
+Further analysis was carrried out to understand the number of employees born in 1965 who were eligble to for mentorship and the below table was drawn after carrying out some queeries on the mentorsip_eligibility table. 
+![](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Images/Eligible_mentors.png)
 it can be seen that when we refer this table to the retiring titles tables not enough mentors are available to train the new employees. Also, ther are no manager level mentors available to train the new employees and for 24926 retiring senior staff, only 454 are available for the mentorship program.  
