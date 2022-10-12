@@ -15,15 +15,15 @@ After completing the analyis, the retiring titles table was created to understan
 ![Retiring temployees](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Images/Retiring_employees.PNG)
 
 * It can be seen that a lot of senior staff that is 25916 Senior Engineers and 24926 Senior Staff will be leaving the organisation. 
-* Only 2 managers will retiring which is comparitively negligible as compared to other employees. 
+* Only 2 managers will retiring which is comparitively negligible as compared to other employees, so more focus is required for other designations. 
 
-Further analysis of the data was carried out to understand the number of employees who weree eligibile for mentorship and the following results were obtained: 
+Further analysis of the data was carried out to understand the number of employees who were eligibile for mentorship and the following results were obtained: 
 * In total `1549 employes` have been shortlisted after reviewing the data and carrying out the necessary analysis [Mentorship Eligibility](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv).
-* The only major selection criiteria for the mentorship pprogramm has been that the employees should be born in 1965 and currently working with the company. NO other factors have been considered such as the time spent with the orgaanization, what level the employee is currently working at and time spent in the role. 
+* The only major selection criiteria for the mentorship pprogram has been that the employees should be born in 1965 and currently working with the company. NO other factors have been considered such as the time spent with the orgaanization, what level the employee is currently working at and time spent in the role. 
 
 ### Summary
 ---
-Based on the above analysis , it can be seen that in total 72458 employees are due to retire and these roles will be required to be filled. A further analysis by department wise and the number of employees retiring from each department including their designation would shed more light and individual departmnts can better prepare themselves.
+Based on the above analysis , it can be seen that in total 72458 employees are due to retire and these roles will be required to be filled. A further analysis on the number of retiring employees department wise and the number of employees retiring from each department including their designation would shed more light and individual departments can better prepare themselves.
 
 To understand whether we have enough qualified retirement ready employees to mentor the next generator of employees, a further analysis was carried out and following results were obtained. 
 
