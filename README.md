@@ -11,9 +11,15 @@ To easily visualize the relationship between the different tables, a Entity rela
 
 ### Results
 ---
-After completing analysis based on the first deliverable, the retiring titles tables was create.
+After completing the analyis, the retiring titles table was created to understand the total numbr of employees that will retire.
 
-After reviewing the table above, it can be seen that 
+
+* It can be seen that a lot of senior staff that is 25916 Senior Engineers and 24926 Senior Staff will be leaving the organisation. 
+* Only 2 managers will retiring which is comparitively negligible as compared to other employees. 
+
+Further analysis was carried out anddonly those employees were selected who were born in year 1965 and currently working with the company. The following results were obtaineed:
+* In total there are 1549 eemployees who are have been shortlisted after reviewing the data and carrying out the ncessary analysis [](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv).
+* 
 
 ![]()
 
@@ -24,3 +30,9 @@ Further analysis was carrried out to understand the number of employees born in 
 ![](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Images/Eligible_mentors.png)
 
 it can be seen that when we refer this table to the retiring titles tables not enough mentors are available to train the new employees. Also, ther are no manager level mentors available to train the new employees and for 24926 retiring senior staff, only 454 are available for the mentorship program.  
+
+Also, furthr analysis was carried out wherein the employees from this table were further divided with repesct to their department to understand how many mentores per department. The below table was formed. 
+
+![]()
+
+
