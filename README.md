@@ -23,12 +23,12 @@ Further analysis of the data was carried out to understand the number of employe
 
 ### Summary
 ---
-Based on the above analysis , it can be seen that in total 72458 employees are due to retire and these roles will bbe required to bbe filled. A further analysis by department wise and the number of employees retiring frm each department including their designation would shed more light and individual departmnts can the prepare accoridngly.   
+Based on the above analysis , it can be seen that in total 72458 employees are due to retire and these roles will be required to be filled. A further analysis by department wise and the number of employees retiring from each department including their designation would shed more light and individual departmnts can better prepare themselves.
 
 To understand whether we have enough qualified retirement ready employees to mentor the next generator of employees, a further analysis was carried out and following results were obtained. 
 
 ![](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Images/Eligible_mentors.png)
 
-it can be seen that when we refer this table to the retiring titles tables not enough mentors are available to train the new employees. In total there are 11549 mentors when compared to 72458 retiring employees which is not enough. THis figure is even more profound when only senior staff are being compared. In total 1098 Senior engineers and senior staff members are avilable for mentor ship when compared to 50842 retirees. The company management needs to include more mentors by increasing the age bracket and also considering other factors suuch as time spent with company, and experience in current role. 
+it can be seen that when we refer this table to the retiring titles tables not enough mentors are available to train the new employees. In total there are 11549 mentors when compared to 72458 retiring employees which is not enough. The gap is even more when only senior staff are being compared. In total 1098 Senior engineers and senior staff members are avilable for mentor ship when compared to 50842 retirees. The company management needs to include more mentors by increasing the age bracket and also considering other factors suuch as time spent with company, and experience in current role. 
 
 
