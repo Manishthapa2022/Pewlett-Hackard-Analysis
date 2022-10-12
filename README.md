@@ -12,7 +12,7 @@ To easily visualize the relationship between the different tables, a Entity rela
 ### Results
 ---
 After completing the analyis, the retiring titles table was created to understand the total numbr of employees that will retire.
-![Retiring temployees]()
+![Retiring temployees](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Images/Retiring_employees.PNG)
 
 * It can be seen that a lot of senior staff that is 25916 Senior Engineers and 24926 Senior Staff will be leaving the organisation. 
 * Only 2 managers will retiring which is comparitively negligible as compared to other employees. 
