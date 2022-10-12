@@ -23,7 +23,7 @@ Further analysis of the data was carried out to understand the number of employe
 
 ### Summary
 ---
-Based on the above analysis , it can be seen that in total 72458 employees are due to retire and these roles will be required to be filled. A further analysis on the number of retiring employees department wise and the number of employees retiring from each department including their designation would shed more light and individual departments can better prepare themselves.
+Based on the above analysis , it can be seen that in total 72458 employees are due to retire and these roles will be required to be filled. A further analysis on the number of retiring employees department wise and the number of employees retiring from each department including their designation would shed more light and the company management can better target departments with high retirement numbers. 
 
 To understand whether we have enough qualified retirement ready employees to mentor the next generator of employees, a further analysis was carried out and following results were obtained. 
 
