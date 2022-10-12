@@ -19,18 +19,17 @@ After completing the analyis, the retiring titles table was created to understan
 
 Further analysis of the data was carried out to understand the number of employees who weree eligibile for mentorship and the following results were obtained: 
 * In total `1549 employes` have been shortlisted after reviewing the data and carrying out the necessary analysis [Mentorship Eligibility](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv).
-* The only major selection criiteria for the mentorship pprogramm has been that the employees should be born in 1965 and currently working with the company. NO other factors such as the time spent with the orgaanization, what level the employee is currently working at and time spent in the role has been taken into account. 
+* The only major selection criiteria for the mentorship pprogramm has been that the employees should be born in 1965 and currently working with the company. NO other factors have been considered such as the time spent with the orgaanization, what level the employee is currently working at and time spent in the role. 
 
 ### Summary
 ---
-Based on the above aalysis , it can be seen that in total 72458 employees are due to retire. 
+Based on the above analysis , it can be seen that in total 72458 employees are due to retire and these roles will bbe required to bbe filled. A further analysis by department wise shows that majority of these roles are from the  
+
+To understand whether we have enough qualified retirement ready employees to mentor the next generator of employees, a further analysis was carried out and following results were obtained. 
 
 ![](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Images/Eligible_mentors.png)
 
-it can be seen that when we refer this table to the retiring titles tables not enough mentors are available to train the new employees. Also, ther are no manager level mentors available to train the new employees and for 24926 retiring senior staff, only 454 are available for the mentorship program.  
+it can be seen that when we refer this table to the retiring titles tables not enough mentors are available to train the new employees. 
 
-Also, furthr analysis was carried out wherein the employees from this table were further divided with repesct to their department to understand how many mentores per department. The below table was formed. 
-
-![]()
 
 
