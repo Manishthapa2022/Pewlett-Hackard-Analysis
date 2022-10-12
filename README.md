@@ -29,7 +29,6 @@ To understand whether we have enough qualified retirement ready employees to men
 
 ![](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Images/Eligible_mentors.png)
 
-it can be seen that when we refer this table to the retiring titles tables not enough mentors are available to train the new employees. 
-
+it can be seen that when we refer this table to the retiring titles tables not enough mentors are available to train the new employees. In total there are 11549 mentors when compared to 72458 retiring employees which is not enough. THis figure is even more profound when only senior staff are being compared. In total 1098 Senior engineers and senior staff members are avilable for mentor ship when compared to 50842 retirees. The company management needs to include more mentors by increasing the age bracket and also considering other factors suuch as time spent with company, and experience in current role. 
 
 
