@@ -12,18 +12,18 @@ To easily visualize the relationship between the different tables, a Entity rela
 ### Results
 ---
 After completing the analyis, the retiring titles table was created to understand the total numbr of employees that will retire.
-
+![Retiring temployees]()
 
 * It can be seen that a lot of senior staff that is 25916 Senior Engineers and 24926 Senior Staff will be leaving the organisation. 
 * Only 2 managers will retiring which is comparitively negligible as compared to other employees. 
 
 Further analysis of the data was carried out to understand the number of employees who weree eligibile for mentorship and the following results were obtained: 
 * In total `1549 employes` have been shortlisted after reviewing the data and carrying out the necessary analysis [Mentorship Eligibility](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv).
-* The onl major selection criiteria for the mentorship pprogramm has been that the employees should be born in 1965 and currently working with the company. NO other factors suuch as the time spent with the orgaanization and time spent in the role has been taken into account. 
+* The only major selection criiteria for the mentorship pprogramm has been that the employees should be born in 1965 and currently working with the company. NO other factors such as the time spent with the orgaanization, what level the employee is currently working at and time spent in the role has been taken into account. 
 
 ### Summary
 ---
-
+Based on the above aalysis , it can be seen that in total 72458 employees are due to retire. 
 
 ![](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Images/Eligible_mentors.png)
 
