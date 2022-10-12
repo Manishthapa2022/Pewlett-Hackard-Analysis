@@ -18,7 +18,7 @@ After completing the analyis, the retiring titles table was created to understan
 * Only 2 managers will retiring which is comparitively negligible as compared to other employees. 
 
 Further analysis was carried out anddonly those employees were selected who were born in year 1965 and currently working with the company. The following results were obtaineed:
-* In total there are 1549 eemployees who are have been shortlisted after reviewing the data and carrying out the ncessary analysis [](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv).
+* In total there are 1549 eemployees who are have been shortlisted after reviewing the data and carrying out the ncessary analysis [Mentorship Eligibility](https://github.com/Manishthapa2022/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv).
 * 
 
 ![]()
